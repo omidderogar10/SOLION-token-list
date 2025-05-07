@@ -1,0 +1,18 @@
+
+{
+  "name": "Solion Token List",
+  "logoURI": "https://raw.githubusercontent.com/omidderogar10/solion-token-list/main/logo.png",
+  "tags": {},
+  "timestamp": "2025-05-07T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "AGhRFv4J3whuuPLCyWViYQr74mS4XCMLmbUhozqQ1TRR",
+      "symbol": "SLN",
+      "name": "Solion",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/omidderogar10/solion-token-list/main/logo.png",
+      "tags": ["community"]
+    }
+  ]
+} create tokenlist.json for SLN
